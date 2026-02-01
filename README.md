@@ -25,8 +25,8 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 
 ### 🚀 Especialización Técnica
 
-![Hilt](https://img.shields.io/badge/Dependency_Injection-Hilt%20%2F%20Koin-orange?style=for-the-badge&logo=android)
-![Testing](https://img.shields.io/badge/Testing-JUnit%20%26%20Mockk-009688?style=for-the-badge&logo=android&logoColor=white)
+![Hilt](https://img.shields.io/badge/Hilt%20%2F%20Koin-orange?style=for-the-badge&logo=android)
+![Testing](https://img.shields.io/badge/JUnit%20%26%20Mockk-009688?style=for-the-badge&logo=android&logoColor=white)
 
 ---
 
