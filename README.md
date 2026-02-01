@@ -79,4 +79,12 @@ Lo que hace único a este proyecto es su motor estético personalizado:
 
 ---
 
+<p align="center">
+  <img src="screenshots/1.jpeg" width="180" alt="Menú principal de PAES Master" />
+  <img src="screenshots/2.jpeg" width="180" alt="Selección de niveles por materias" />
+  <img src="screenshots/3.jpeg" width="180" alt="Módulo de preguntas y respuestas" />
+  <img src="screenshots/4.jpeg" width="180" alt="Pantalla de resultados y estadísticas" />
+</p>
+
+---
 > *Nota: Este repositorio es privado. Si eres un reclutador y deseas ver el código o una demo en vivo, no dudes en contactarme.*
