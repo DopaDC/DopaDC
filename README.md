@@ -48,8 +48,9 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 
 ---
 
-## 🚀 Proyectos Destacados
-*Explora algunas de las aplicaciones en las que he estado trabajando recientemente.*
+<h1 align="center">🚀 PROYECTOS DESTACADOS</h1>
+
+<p align="center"><i>Explora algunas de las aplicaciones en las que he estado trabajando recientemente.</i></p>
 
 ---
 
