@@ -48,6 +48,15 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 
 ---
 
+## 📈 Mis Contribuciones
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DopaDC/DopaDC/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DopaDC/DopaDC/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DopaDC/DopaDC/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
+
 <h1 align="center">🚀 PROYECTOS DESTACADOS</h1>
 
 <p align="center"><i>Explora algunas de las aplicaciones en las que he estado trabajando recientemente.</i></p>
