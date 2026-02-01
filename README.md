@@ -37,6 +37,11 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 
 ---
 
+### 📫 Contacto
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benjamineliasgutierrezacuna@gmail.com)
+
+---
+
 > *"La tecnología es mejor cuando une a la gente."*
 
 ---
