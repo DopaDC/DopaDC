@@ -48,6 +48,11 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 
 ---
 
+## 🚀 Proyectos Destacados
+*Explora algunas de las aplicaciones en las que he estado trabajando recientemente.*
+
+---
+
 # PAES Master 🎓📱
 
 **PAES Master** es una plataforma educativa gamificada diseñada para estudiantes en Chile que se preparan para las pruebas de acceso a la educación superior. La aplicación combina una experiencia de usuario altamente personalizada con una arquitectura técnica robusta y moderna.
