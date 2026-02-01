@@ -78,3 +78,5 @@ Lo que hace único a este proyecto es su motor estético personalizado:
   * Sistema de partículas animadas optimizado para mantener una alta tasa de refresco (60fps+) sin comprometer el rendimiento del dispositivo.
 
 ---
+
+> *Nota: Este repositorio es privado. Si eres un reclutador y deseas ver el código o una demo en vivo, no dudes en contactarme.*
