@@ -20,14 +20,10 @@ Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi o
 * **Cloud Services:** Cloud Messaging (FCM) & Storage
 
 ---
-
-### 📊 Mis Estadísticas
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DopaDC&show_icons=true&theme=tokyonight" alt="Estadísticas de DopaDC" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DopaDC&layout=compact&theme=tokyonight&hide=html,css,javascript" alt="Lenguajes más usados" />
-</p>
-
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android Studio](https://img.shields.io/badge/android%20studio-34611E?style=for-the-badge&logo=android%20studio&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpack%20compose&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ---
 
 > *"La tecnología es mejor cuando une a la gente."*
