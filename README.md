@@ -1,6 +1,6 @@
 # ¡Hola! Soy DopaDC 👋
 
-### Desarrollador Android en formación 📱
+### Desarrollador Android 📱
 
 Actualmente enfocado en el desarrollo de aplicaciones nativas para Android. Mi objetivo es dar soluciones a problemas de la vida real mediante la creación de apps, apostando por el aprendizaje continuo y la innovación tecnológica.
 
